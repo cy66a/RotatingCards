@@ -11,7 +11,7 @@ body {
 
 /*Blocks*/
 .header__inner {
-  background: url(/img/background.jpg) center center/50% repeat;
+  background: url(../img/background.jpg) center center/50% repeat;
   height: 100vh;
 }
 
